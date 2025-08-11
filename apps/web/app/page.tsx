@@ -54,14 +54,7 @@ export default function Home() {
             />
             Deploy now
           </a>
-          <a
-            href="https://turborepo.com/docs?utm_source"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.secondary}
-          >
-            Read our docs
-          </a>
+          
         </div>
         <Button appName="web" className={styles.secondary}>
           Open alert
